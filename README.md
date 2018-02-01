@@ -1,5 +1,4 @@
 # hello-world
-GitHub's tutorial
 
 Hello World!
 
